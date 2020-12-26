@@ -1,0 +1,15 @@
+all: one two three
+
+one two:
+	echo $@ 
+
+
+one:
+	touch one
+two:
+	touch two
+three:
+	touch three
+
+clean:
+	rm -f one two three
