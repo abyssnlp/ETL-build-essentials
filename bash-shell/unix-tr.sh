@@ -19,7 +19,7 @@ echo "convert the space to newline" | tr [:space:] '\n'
 echo "this option" | tr -c 't' 'i'
 
 # -s option
+# search and replace
 
-
-
-
+# -d option
+# search and delete

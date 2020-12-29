@@ -1,5 +1,14 @@
 1.Monitor
+1.Monitor
+2.Keyboard
+2.Keyboard
 2.Keyboard
 3.Mouse
+3.Mouse
+4.Scanner
+4.Scanner
+4.Scanner
 4.Scanner
 5.HDD
+6.SSD
+6.SSD
